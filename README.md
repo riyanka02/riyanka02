@@ -22,5 +22,5 @@ A Computer Science student deeply passionate about Programming, Web Development,
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/riyanka-nag-a22076247/)
-- Connect with me on[LeetCode](https://leetcode.com/u/nagriyanka931/)
-- Connect with me on [HackerRank](https://www.hackerrank.com/profile/nagriyanka931)
+- Coding platform [LeetCode](https://leetcode.com/u/nagriyanka931/)
+- Coding platform [HackerRank](https://www.hackerrank.com/profile/nagriyanka931)
