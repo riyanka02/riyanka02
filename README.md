@@ -7,16 +7,14 @@ A Computer Science student deeply passionate about Programming, Web Development,
 🔭 I'm currently pursuing my Bachelor of Technology (B.Tech) degree in Computer Science - Data Science at MCKV INSTITUTE OF ENGINEERING.
 
 ## Tech Stack
-[![HTML,CSS,BOOTSTRAP,JAVASCRIPT,JAVA,,PYTHON,MACHINE LEARNING,NODE.JS,EXPRESS.JS,EJS,SQL,MONGODB,REACT.JS](https://skillicons.dev/icons?
-i=js,html,css,bootstrap,node.js,express.js,javascriptwasm)](https://skillicons.dev)
-[![Java,Python,Node.js](https://skillicons.dev/icons?i=java,python,nodejs&theme=light)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons/html.svg)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons/css.svg)](https://skillicons.dev) [![Java](https://skillicons.dev/icons/java.svg)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons/javascript.svg)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons/bootstrap.svg)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons/node.svg)](https://skillicons.dev) [![Express.js](https://skillicons.dev/icons/express.svg)](https://skillicons.dev) [![React.js](https://skillicons.dev/icons/react.svg)](https://skillicons.dev) [![SQL](https://skillicons.dev/icons/sql.svg)](https://skillicons.dev) [![AWS](https://skillicons.dev/icons/aws.svg)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons/mongodb.svg)](https://skillicons.dev)[![Machine Learning](https://skillicons.dev/icons/ml.svg)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 
 - 🚀 Mastering MERN Stack.
 - Learning AWS and DevOps methodologies.
-- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
- 
+
 
  ## 🏆 Achievements
 
