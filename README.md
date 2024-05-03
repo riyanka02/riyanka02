@@ -7,8 +7,7 @@ A Computer Science student deeply passionate about Programming, Web Development,
 🔭 I'm currently pursuing my Bachelor of Technology (B.Tech) degree in Computer Science - Data Science at MCKV INSTITUTE OF ENGINEERING.
 
 ## Tech Stack
-[![HTML](https://skillicons.dev/icons/html.svg)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons/css.svg)](https://skillicons.dev) [![Java](https://skillicons.dev/icons/java.svg)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons/javascript.svg)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons/bootstrap.svg)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons/node.svg)](https://skillicons.dev) [![Express.js](https://skillicons.dev/icons/express.svg)](https://skillicons.dev) [![React.js](https://skillicons.dev/icons/react.svg)](https://skillicons.dev) [![SQL](https://skillicons.dev/icons/sql.svg)](https://skillicons.dev) [![AWS](https://skillicons.dev/icons/aws.svg)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons/mongodb.svg)](https://skillicons.dev)[![Machine Learning](https://skillicons.dev/icons/ml.svg)](https://skillicons.dev)
-
+[!HTML,CSS,JAVASCRIPT,BOOTSTRAP,NODE.JS,EXPRESS.JS,REACT,SQL,MONGODB,AWS,MACHINE LEARNING,JAVA,PYTHON,POSTMAN](https://skillicons.dev/icons?i=js,html,css,js,bootstrap,nodejs,express,react,mysql,mongodb,aws,java,py,postman)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
