@@ -4,10 +4,12 @@ A Computer Science student deeply passionate about Programming, Web Development,
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's degree in Computer Science - Data Science at MCKV INSTITUTE OF ENGINEERING.
+🔭 I'm currently pursuing my Bachelor of Technology (B.Tech) degree in Computer Science - Data Science at MCKV INSTITUTE OF ENGINEERING.
 
 ## Tech Stack
-[![HTML,CSS,BOOTSTRAP,JAVASCRIPT,JAVA,,PYTHON,MACHINE LEARNING,NODE.JS,EXPRESS.JS,EJS,SQL,MONGODB,REACT.JS](https://skillicons.dev/icons?i=js,html,css,bootstrap,node.js,express.js,javascriptwasm)](https://skillicons.dev)
+[![HTML,CSS,BOOTSTRAP,JAVASCRIPT,JAVA,,PYTHON,MACHINE LEARNING,NODE.JS,EXPRESS.JS,EJS,SQL,MONGODB,REACT.JS](https://skillicons.dev/icons?
+i=js,html,css,bootstrap,node.js,express.js,javascriptwasm)](https://skillicons.dev)
+[![Java,Python,Node.js](https://skillicons.dev/icons?i=java,python,nodejs&theme=light)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
