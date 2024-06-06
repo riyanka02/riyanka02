@@ -1,5 +1,5 @@
 # Hi, I'm Riyanka Nag! 👋
-A Computer Science student deeply passionate about Programming, Web Development, and DevOps methodologies, I aspire to become a Software Developer. My journey encompasses immersing myself in the vast realm of computer science, continuously exploring new ideas, and eagerly sharing my insights with the community.
+A Computer Science student deeply passionate about Programming, Web Development, DevOps and AWS. I aspire to become a Software Engineer. My journey encompasses immersing myself in the vast realm of computer science, continuously exploring new ideas, and eagerly sharing my insights with the community.
 
 
 ## 🚀 About Me
